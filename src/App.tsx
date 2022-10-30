@@ -27,6 +27,7 @@ function App() {
   document.title = 'Yoba Land';
   const arr = ['Home', 'Blog', 'Auth', 'Download Game', 'About us'];
 
+  // Bruh dude
 
   const arrNavs = arr.map(i => 
     (
